@@ -13,3 +13,4 @@ This document aggregates examples of my past work in the area of smart contract 
 ## Audits
 
  * [Pally ICO](https://github.com/adamkolar/PallyICOAudit)
+ * [Jincor ICO](https://github.com/adamkolar/JincorICOAudit)
